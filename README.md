@@ -5,3 +5,5 @@ This is a work-in-progress repository for training a model that is capable of de
 
 # Background
 ## How autoregressive models are trained
+
+![alt text](https://github.com/Keannh/ChangeCoder/blob/main/Standard transformer.png?raw=true)
